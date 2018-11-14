@@ -1,6 +1,7 @@
 {
 	"author": "Aman Jain",
 	"name": "fcc-learn-npm-package-json",
+	"description": "A project for learning api n microservices",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
